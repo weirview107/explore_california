@@ -1,6 +1,5 @@
 # Comment 
-tempfile.txt
-tempfile2.txt
+*.txt
 .DS_Store
 *.zip
 *.gz
